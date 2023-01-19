@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+title: "Exoplanet Detection"
 date: 2022-10-07
 published: true
 labels:
