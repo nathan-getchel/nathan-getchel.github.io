@@ -7,5 +7,7 @@ date: 2023-01-18
 published: true
 labels:
   - Javascript
+  - Software Engineering
+  - Web Development
 ---
 temp
