@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Intro to Javascript"
+title: "Learning by Doing"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
 labels:
   - Javascript
-  - Software Engineering
+  - Athletic Software Engineering
   - Web Development
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/js-logo.png">
