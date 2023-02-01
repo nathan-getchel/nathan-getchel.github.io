@@ -16,12 +16,13 @@
   "interests": [
     { "name": "Exoplanet Detection" },
     { "name": "Planetary Science" },
+    { "name": "Early Universe Cosmology" },
     { "name": "Data Science" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -42,7 +43,8 @@
   "work": [
     {
       "company": "Michigan Department of Natural Resources",
-      "position": "State Worker, Keith J. Charters Traverse City State Park",
+      "position": "State Worker",
+      "location": "Keith J. Charters Traverse City State Park",
       "website": "",
       "startDate": "2021-05-10",
       "endDate": "2021-08-15",
