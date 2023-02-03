@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cluster.jpg
+image: img/pleiades.jpg
 title: "Deriving Properties of the Pleiades"
 date: 2023-02-02
 published: true
