@@ -22,4 +22,4 @@ In order to complete this project, I first wrote pseudocode for all of the impor
 
 Since I had already completed a similar project in C, this was an excellent way to compare and contrast the capabilities of the two languages. C++ adds new functionality that makes it more than just an iteration on C.
 
-Code found [here.](https://github.com/nathan-getchel/coderepo/tree/main/bank)
+Source code found [here.](https://github.com/nathan-getchel/coderepo/tree/main/bank)
