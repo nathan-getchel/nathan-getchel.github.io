@@ -20,4 +20,4 @@ Star clusters are dense groups of stars that have formed at roughly the same tim
 
 This project was quite a headache for me at times. The initial data set required some effort just to get, as I had no prior experience with astroquery. Once I properly accessed it, it contained tens of thousands of objects. For a comparison, my final color-magnitude diagram contained only 180 objects. That’s a lot to filter out! Also, an important consideration I had to make was how strictly to filter these objects. Not strict enough, and I would have a mess of unrelated objects. Too strict, and I wouldn’t have enough stars left to draw accurate conclusions. I think I reached a happy medium and ended up with a data set representative of the whole cluster, even though some members were surely filtered out along with the field stars. This was by far the most time-intensive coding project that I have completed to date, and all the work was done solely by me.
 
-Link to Jupyter Notebook [here.](https://github.com/nathan-getchel/pleiades/blob/main/pleiades_github.ipynb)
+Link to Jupyter Notebook [here.](https://github.com/nathan-getchel/coderepo/blob/main/pleiades_github.ipynb)
