@@ -17,4 +17,4 @@ Exoplanets are most commonly discovered using the transit technique, in which we
 
 This was the first important project that I completed for my degree, and while there was some collaboration with classmates, all the coding work was my own. As my first real Python project, this was an important learning experience since Python is the unofficial standard language for astronomy. I gained valuable experience in creating and formatting figures using pyplot in mayplotlib.
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/light_curve.png">
+<img width="800px" class="rounded float-start pe-4" src="../img/light_curve.png">
