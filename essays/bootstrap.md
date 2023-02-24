@@ -16,6 +16,7 @@ HTML alone can be a mess to try and make a webpage with. It's clunky and unintui
 
 ## Bootstrap
 
+<img width="400px" class="rounded float-start pe-4" src="../img/seeds_screenshot.png">
 Bootstrap 5 is a front-end web development framework that provides pre-designed HTML and CSS components, making it easier to build a website that is both functional and good-looking. Its many components allow you to quickly create things like navbars and dropdown menus, as well as easily insert background images. Bootstrap also uses a grid system to place the components, and can resize your page for different window/screen sizes while still making it pleasant to look at.
 
 ## Mo' Classes, Mo' Problems
