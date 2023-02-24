@@ -1,19 +1,25 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Basic UI Design"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
+date: 2023-02-23
+published: true
 labels:
   - Software Engineering
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+## Raw HTML
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+HTML alone can be a mess to try and make a webpage with. It's clunky and unintuitive, and there's a good chance that any page you design will look like it belongs in the early days of the internet. Using CSS along with it can help, but you are still severely limited by a lack of options. Fortunately for all the budding front-end developers out there, a better solution exists.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+## Bootstrap
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Bootstrap 5 is a front-end web development framework that provides pre-designed HTML and CSS components, making it easier to build a website that is both functional and good-looking. Its many components allow you to quickly create things like navbars and dropdown menus, as well as easily insert background images. Bootstrap also uses a grid system to place the components, and can resize your page for different window/screen sizes while still making it pleasant to look at.
+
+## Mo' Classes, Mo' Problems
+
+It's not all sunshine and daisies, though. A lot of Bootstrap's versatility comes from its built-in classes, which can be very difficult to learn. There are so many, and they don't always behave in the way you might expect. Personally, I have had a pretty hard time and several frustrating hours just trying to get parts of web pages to line up nicely. Learning what can be done with a framework like Bootstrap takes some real effort to learn, let alone master. However, it's still a far sight better than wrestling with HTML all day.
+
+<img width="200px" class="rounded float-start pe-4" src="../img/seeds_screenshot.png">
