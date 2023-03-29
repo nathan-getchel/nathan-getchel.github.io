@@ -11,7 +11,7 @@ labels:
 
 ## Overview
 
-People who play board games know how hard it can be to find a group that consistently meets on time and stays together. Scheduling issues, flakey group members, and lack of communication are like a plague. Imagine if there were an easier way to find groups and scedule sessions! The tentatively named "Boardgame Coordinator" is a web application that would allow users to select their specific interests and see open groups whose interests match, with games like in-depth tabletop role-playing games to poker snd anything in between.
+People who play board games know how hard it can be to find a group that consistently meets on time and stays together. Scheduling issues, flakey group members, and lack of communication are like a plague. Imagine if there were an easier way to find groups and scedule sessions! The tentatively named "Boardgame Coordinator" is a web application that would allow users to select their specific interests and see open groups whose interests match, with games like in-depth tabletop role-playing games to poker and anything in between.
 
 ## Mockup Page Ideas
 
