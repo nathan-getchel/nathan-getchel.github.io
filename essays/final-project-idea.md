@@ -15,18 +15,18 @@ People who play board games know how hard it can be to find a group that consist
 
 ## Mockup Page Ideas
 
--Landing page
--Login/signup page
--Interests/games list for users to select
--List of open groups
--Page to create a new group
+- Landing page
+- Login/signup page
+- Interests/games list for users to select
+- List of open groups
+- Page to create a new group
 
 ## Use Case Ideas
 
--New user goes to page and signs up for an account
--Existing user logs in, scrolls through a list of groups that can be joined, and requests to join a group
--Existing user logs in and decides to create a new group with selected games/interests relevant to them
+- New user goes to page and signs up for an account
+- Existing user logs in, scrolls through a list of groups that can be joined, and requests to join a group
+- Existing user logs in and decides to create a new group with selected games/interests relevant to them
 
 ## Beyond the Basics
 
--Integration with calendar software (i.e. click a button to import an event into your Google calendar)
+- Integration with calendar software (i.e. click a button to import an event into your Google calendar)
