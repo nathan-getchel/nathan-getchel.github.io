@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="650px" class="rounded float-start pe-4" src="../img/city.png">
+<img width="750px" class="rounded float-start pe-4" src="../img/city.png">
 
 ## City Planning
 
