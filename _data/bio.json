@@ -6,7 +6,7 @@
     "email": "ngetchel@hawaii.edu",
     "phone": "231-709-0304",
     "website": "https://nathan-getchel.github.io",
-    "summary": "I am studying for a B.S. in Astrophysics in the College of Natural Sciences at the University of Hawaii. I am also pursuing a minor in Information and Computer Sciences. I expect to graduate in Spring, 2025.",
+    "summary": "I am studying for a B.S. in Astrophysics in the College of Natural Sciences at the University of Hawaii. I am also pursuing a B.A. in Information and Computer Sciences. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96821", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "nathan-getchel", "url": "https://github.com/nathan-getchel/" },
@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "JavaScript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "Python", "Meteor", "React", "Bootstrap" ]
     },
     {
       "name": "Operating Systems",
@@ -32,8 +32,8 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Major - Astrophysics, Minor - Information and Computer Science",
-      "studyType": "BS",
+      "area": "Astrophysics, Information and Computer Science",
+      "studyType": "BS, BA",
       "startDate": "2021-08-23",
       "endDate": "Present",
       "courses": [
@@ -78,7 +78,7 @@
   "awards": [
     {
       "title": "Astronomy Department Student of the Year",
-      "date": "2015-2016",
+      "date": "AY 2015-2016",
       "awarder": "Northwestern Michigan College",
       "summary": "Awarded to one student per year in the astronomy department who demonstrates excellence in the pursuit of academic achievement"
     },
