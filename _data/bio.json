@@ -32,8 +32,7 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Astrophysics, Information and Computer Science",
-      "studyType": "BS, BA",
+      "area": " B.S. Astrophysics, B.A. Information and Computer Sciences",
       "startDate": "2021-08-23",
       "endDate": "Present",
       "courses": [
@@ -58,7 +57,7 @@
       "endDate": "2021-08-15",
       "summary": "Seasonal position at state park campground",
       "highlights": [
-        "Customer service, reservation management, and campground maintenance",
+        "Customer service, reservation management, and campground maintenance"
       ]
     },
     {
@@ -81,7 +80,7 @@
       "date": "AY 2015-2016",
       "awarder": "Northwestern Michigan College",
       "summary": "Awarded to one student per year in the astronomy department who demonstrates excellence in the pursuit of academic achievement"
-    },
+    }
   ],
   "references": [
     {
