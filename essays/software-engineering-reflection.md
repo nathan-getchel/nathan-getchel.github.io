@@ -26,8 +26,8 @@ So perhaps a more impactful example of the importance of ethics in software engi
 
 ## Open-Source Software
 
-One way that selfless developers can do some good is by designing and maintaining open-source software. Most software that falls into this category is also free to use. Some prominent examples include the LibreOffice suite (a free alternative to things like Microsoft Office), the image editor GIMP, and, of course, Linux-based operating systems. Linux especially is a great example of success using the open-source model. There are many different operating systems based on the Linux kernel, and this is only possible because all of the source code is freely available for people to experiment with and modify.
-
 <img width="400px" class="rounded float-start pe-4" src="../img/linux_penguins.png">
+
+One way that selfless developers can do some good is by designing and maintaining open-source software. Most software that falls into this category is also free to use. Some prominent examples include the LibreOffice suite (a free alternative to things like Microsoft Office), the image editor GIMP, and, of course, Linux-based operating systems. Linux especially is a great example of success using the open-source model. There are many different operating systems based on the Linux kernel, and this is only possible because all of the source code is freely available for people to experiment with and modify.
 
 The most popular distribution is probably Ubuntu, but Fedora, Debian, RedHat, and Linux Mint are also popular choices. Linux has something to offer even to users already running Windows. I myself have dual-booted my laptop with Windows 11 and Ubuntu 22.04, because I wanted the option to use a Unix-based system for scientific work, but didn't want to spend the money on a Mac. After all, I already had perfectly good hardware. All I wanted was some different software, and the open-source model was able to provide me with a simple, free option.
