@@ -20,7 +20,9 @@ Why do we do what we do? Beyond needing to pay the bills, a developer should wan
 
 On the other hand, maybe you're not convinced that Facebook deserves any blame for the state it's in today. After all, Facebook itself is not directly responsible for the content that it hosts. It's moderated, to an extent, but its users decide what they post and what pages they join.
 
-<img width="400px" class="rounded float-start pe-4" src="../img/missile.png">
+<p align="center">
+  <img width="500px" class="rounded float-start pe-4" src="../img/missile.png">
+</p>
 
 So perhaps a more impactful example of the importance of ethics in software engineering would be to discuss military contractors. Modern weapon systems are essentially entirely computerized, and require a lot of work from a lot of developers in order to function. Regardless of how confident a developer feels that the use of their work will be justified, you can't get around the simple fact that its primary function is either to directly take lives, or to support operations that do so. Therefore, a responsible developer must give serious consideration to whether what they are being asked to create is acceptable and aligns with their values.
 
