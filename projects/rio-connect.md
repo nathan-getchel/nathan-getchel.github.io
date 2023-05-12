@@ -24,14 +24,14 @@ For the final project of ICS 314, we were tasked with creating a web application
   <img src="../img/rio-connect-profile.png" width="400" />
 </p>
 
-The images above show a couple of the pages of our site. On the left is the landing page, which is the root of the site. Whenever you navigate to rio-connect.com, you will end up here. On the right is my user page. Here, I can change my profile info, as well as see what clubs I've joined. For now, I have only joined Hui Ola Pono, the public health club. I can also click a link which will open my default email client and send a message to the club president.
+The images above show a couple of the pages of our site. The first image shows the landing page, which is the root of the site. Whenever you navigate to rio-connect.com, you will end up here. The second image is my user page. Here, I can change my profile info, as well as see what clubs I've joined. For now, I have only joined Hui Ola Pono, the public health club. I can also click a link which will open my default email client and send a message to the club president.
 
 <p float="left">
   <img src="../img/rio-connect-clubs.png" width="400" />
   <img src="../img/rio-connect-editclub.png" width="400" />
 </p>
 
-Here on the left you can see the clubs section of my profile again, but now I have created my own club. It is displayed much the same as the other club I joined, except it has an edit button since I am the owner of this club. On the right, you can see the page I am taken to if I click the edit button. I can change the club's info or delete it entirely, as well as see a list of the members and kick any people out of the club if I so choose. Since I just created this fake club to demonstrate functionality, I am the only member, and I cannot kick myself because I am the owner.
+In this first image you can see the clubs section of my profile again, but now I have created my own club. It is displayed much the same as the other club I joined, except it has an edit button since I am the owner of this club. In the second image, you can see the page I am taken to if I click the edit button. I can change the club's info or delete it entirely, as well as see a list of the members and kick any people out of the club if I so choose. Since I just created this fake club to demonstrate functionality, I am the only member, and I cannot kick myself because I am the owner.
 
 ## Other Notes
 
