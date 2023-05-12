@@ -20,13 +20,13 @@ Why do we do what we do? Beyond needing to pay the bills, a developer should wan
 
 On the other hand, maybe you're not convinced that Facebook deserves any blame for the state it's in today. After all, Facebook itself is not directly responsible for the content that it hosts. It's moderated, to an extent, but its users decide what they post and what pages they join.
 
-<img style="display: block; margin-left: auto; margin-right: auto; width: 70%" width="500px" class="rounded float-start pe-4" src="../img/missile.png">
+<img style="display: block; margin-left: auto; margin-right: auto; width: 70%" width="500px" class="rounded" src="../img/missile.png">
 
 So perhaps a more impactful example of the importance of ethics in software engineering would be to discuss military contractors. Modern weapon systems are essentially entirely computerized, and require a lot of work from a lot of developers in order to function. Regardless of how confident a developer feels that the use of their work will be justified, you can't get around the simple fact that its primary function is either to directly take lives, or to support operations that do so. Therefore, a responsible developer must give serious consideration to whether what they are being asked to create is acceptable and aligns with their values.
 
 ## Open-Source Software
 
-<img width="600px" class="rounded float-start pe-4" src="../img/linux_penguins.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/linux_penguins.png">
 
 One way that selfless developers can do some good is by designing and maintaining open-source software. Most software that falls into this category is also free to use. Some prominent examples include the LibreOffice suite (a free alternative to things like Microsoft Office), the image editor GIMP, and, of course, Linux-based operating systems. Linux especially is a great example of success using the open-source model. There are many different operating systems based on the Linux kernel, and this is only possible because all of the source code is freely available for people to experiment with and modify.
 
