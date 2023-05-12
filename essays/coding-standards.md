@@ -12,6 +12,8 @@ labels:
 
 ## Intro to ESLint
 
+<img width="200px" class="rounded float-start pe-4" src="../img/eslint.png">
+
 IntelliJ with the ESLint standard has proved to be effective, if somewhat nitpicky. Having style errors show up as big scary red checkmarks immediately makes me think that there is some syntax error that will prevent the code from running at all. In time, however, I believe it will prove useful as the particularity will force me to learn it well and become accustomed to it. But why do coding standards matter in the first place?
 
 ## Coding Standards in General
