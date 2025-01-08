@@ -34,7 +34,8 @@
   "education": [
     {
       "institution": "University of Hawaiʻi at Manoa, Honolulu, HI",
-      "area": "BA Physics, minors in Astrophysics and Information & Computer Sciences",
+      "area": "Physics, minors in Astrophysics and Information & Computer Sciences",
+	  "studyType": "BA",
       "startDate": "2021-08-23",
       "endDate": "Present",
       "courses": [
