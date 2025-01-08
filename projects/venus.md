@@ -48,10 +48,10 @@ We carried out 200 simulations, each with a different set up for the protoplanet
 
 ## References
 
-Chambers, J. E. 1999, MNRAS, 304, 793, doi: 10.1046/j.1365-8711.1999.02379.x
-Cleland, C. E., & Rimmer, P. B. 2022, Aerospace, 9, 752, doi: 10.3390/aerospace9120752
-Davis, P., & Carney, S. 2023, Overview | Venus, NASA Solar System Exploration https://solarsystem.nasa.gov/planets/venus/overview/
-Haghighipour, N., & Winter, O. C. 2016, Celestial Mechanics and Dynamical Astronomy, 124, 235, doi: 10.1007/s10569-015-9663-y
-Izidoro, A., Haghighipour, N., Winter, O. C., & Tsuchida, M. 2014, ApJ, 782, 31, doi: 10.1088/0004-637X/782/1/31
-Owen, T., Bar-Nun, A., & Kleinfeld, I. 1992, Nature, 358, 43, doi: 10.1038/358043a0
+Chambers, J. E. 1999, MNRAS, 304, 793, doi: 10.1046/j.1365-8711.1999.02379.x  
+Cleland, C. E., & Rimmer, P. B. 2022, Aerospace, 9, 752, doi: 10.3390/aerospace9120752  
+Davis, P., & Carney, S. 2023, Overview | Venus, NASA Solar System Exploration https://solarsystem.nasa.gov/planets/venus/overview/  
+Haghighipour, N., & Winter, O. C. 2016, Celestial Mechanics and Dynamical Astronomy, 124, 235, doi: 10.1007/s10569-015-9663-y  
+Izidoro, A., Haghighipour, N., Winter, O. C., & Tsuchida, M. 2014, ApJ, 782, 31, doi: 10.1088/0004-637X/782/1/31  
+Owen, T., Bar-Nun, A., & Kleinfeld, I. 1992, Nature, 358, 43, doi: 10.1038/358043a0  
 Williams, D. R. 2016, Venus Fact Sheet, NASA Space Science Data Coordinated Archive https://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html
