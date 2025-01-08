@@ -52,8 +52,7 @@ Chambers, J. E. 1999, MNRAS, 304, 793, doi: 10.1046/j.1365-8711.1999.02379.x
 
 Cleland, C. E., & Rimmer, P. B. 2022, Aerospace, 9, 752, doi: 10.3390/aerospace9120752
 
-Davis, P., & Carney, S. 2023, Overview | Venus, NASA Solar System Exploration. https://solarsystem.nasa.gov/planets/venus/overview/\
-
+Davis, P., & Carney, S. 2023, Overview | Venus, NASA Solar System Exploration. https://solarsystem.nasa.gov/planets/venus/overview
 
 Haghighipour, N., & Winter, O. C. 2016, Celestial Mechanics and Dynamical Astronomy, 124, 235, doi: 10.1007/s10569-015-9663-y
 
