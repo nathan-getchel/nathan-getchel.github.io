@@ -45,3 +45,19 @@ We conducted 200 simulations, each with different distributions of embryos, and 
 We carried out 200 simulations, each with a different set up for the protoplanetary disk. From these simulations, 36 (18%) ended up as planetary systems with planets in orbits similar to Venus and Earth, and six produced a Venus-analog (3%). Interestingly, out of 200 simulations, only one produced a coupled system with a Venus-analog and an Earth-analog (0.5%), indicating that such coupled systems are very rare. We note that in our solar system, Venus’ orbit is strongly coupled to Earth. In all cases, the masses of the Venus-analogs were within one order of magnitude of the mass of Venus, and their water-masses alone weigh more than the entirety of the actual Venusian atmosphere, with masses ranging from roughly 4 to 80 times more. The analysis of the data indicates that the weighted average of the initial semimajor axes of the analog planets’ constituent objects populate a range from 2.5 – 3 AU. The figure below shows histograms of these water-source objects for the coupled Venus- and Earth-analogs (same simulated solar system as figure above). As shown here, a sharp cutoff appears at or before 3.5 AU, which means that all of the water present on the analog planets was originally from the inner solar system. Using these simulations as guides, we would expect that the real Venus would have experienced a similar history, initially having much more water that has since evaporated and been absorbed by the atmosphere. The latter led to an extreme greenhouse effect, causing the temperature and pressure of the planet to skyrocket, and thus explaining the differences seen today between Venus and Earth.
 
 <img width="800px" class="rounded center pe-4" src="../img/c27e4-water-sources.png">
+
+## References
+
+Chambers, J. E. 1999, MNRAS, 304, 793,
+	doi: 10.1046/j.1365-8711.1999.02379.x
+
+Cleland, C. E., & Rimmer, P. B. 2022, Aerospace, 9, 752,
+	doi: 10.3390/aerospace9120752
+
+Davis, P., & Carney, S. 2023, Overview | Venus, NASA
+	Solar System Exploration.
+	https://solarsystem.nasa.gov/planets/venus/overview/
+
+Haghighipour, N., & Winter, O. C. 2016, Celestial
+	Mechanics and Dynamical Astronomy, 124, 235,
+	doi: 10.1007/s10569-015-9663-y
