@@ -7,7 +7,7 @@
     "phone": "231-709-0304",
     "website": "https://nathan-getchel.github.io",
     "summary": "BA Physics student with minors in Astrophysics and Information & Computer Sciences, expected to graduate in Spring 2025. Interests in n-body simulations, data science, planetary science, and exoplanet detection. Experience with troubleshooting and problem solving across a range of technologies (programming, electronic systems, communications systems, personal computers).",
-    "location": { "address": "", "postalCode": "96821", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "nathan-getchel", "url": "https://github.com/nathan-getchel/" },
       { "network": "linkedin", "username": "nathan-getchel", "url": "http://linkedin.com/in/nathan-getchel-88a13b262/" }
@@ -15,6 +15,7 @@
   },
   "interests": [
 	{ "name": "N-body Simulations" },
+	{ "name": "Planet Formation" },
     { "name": "Exoplanet Detection" },
     { "name": "Planetary Science" },
     { "name": "Early Universe Cosmology" },
@@ -58,7 +59,7 @@
       "endDate": "2021-08-15",
       "summary": "Seasonal position at state park campground",
       "highlights": [
-        "Customer service, reservation management, and campground maintenance"
+        "Customer service, money handling, reservation management, and campground maintenance"
       ]
     },
     {
