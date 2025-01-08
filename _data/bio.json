@@ -3,10 +3,10 @@
     "name": "Nathan Getchel",
     "label": "Student",
     "picture": "https://github.com/nathan-getchel.png",
-    "email": "ngetchel@hawaii.edu",
+    "email": "nathanial.getchel@gmail.com",
     "phone": "231-709-0304",
     "website": "https://nathan-getchel.github.io",
-    "summary": "I am studying for a B.S. in Astrophysics in the College of Natural Sciences at the University of Hawaii. I am also pursuing a B.A. in Information and Computer Sciences. I expect to graduate in Spring, 2025.",
+    "summary": "BA Physics student with minors in Astrophysics and Information & Computer Sciences, expected to graduate in Spring 2025. Interests in n-body simulations, data science, planetary science, and exoplanet detection. Experience with troubleshooting and problem solving across a range of technologies (programming, electronic systems, communications systems, personal computers).",
     "location": { "address": "", "postalCode": "96821", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "nathan-getchel", "url": "https://github.com/nathan-getchel/" },
@@ -27,13 +27,13 @@
     },
     {
       "name": "Operating Systems",
-      "keywords": [ "Ubuntu", "Windows" ]
+      "keywords": [ "Linux", "Windows" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "B.S. Astrophysics, B.A. Information and Computer Sciences",
+      "institution": "University of Hawaiʻi at Manoa, Honolulu, HI",
+      "area": "BA Physics, minors in Astrophysics and Information & Computer Sciences",
       "startDate": "2021-08-23",
       "endDate": "Present",
       "courses": [
@@ -42,7 +42,7 @@
     {
       "institution": "Northwestern Michigan College, Traverse City, MI",
       "area": "Physical Sciences",
-      "studyType": "AAS",
+      "studyType": "ASA",
       "startDate": "2014-08-25",
       "endDate": "2016-05-06",
       "courses": [
